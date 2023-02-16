@@ -83,6 +83,8 @@ class ASLDataset(Dataset):
 
 ## Define nueral network model 
 
-in this section we use structure of Alexnet model.
+in this section we use structure of Alexnet model with following properties : 
+
+
 ![3](https://user-images.githubusercontent.com/67091916/219327265-87cce240-1b48-4e58-8d70-7950567c9b95.png)
 ![4](https://user-images.githubusercontent.com/67091916/219327273-0d681332-8bc1-4ebb-be04-c3f28dc5f6c1.png)
