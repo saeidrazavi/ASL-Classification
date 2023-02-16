@@ -149,4 +149,4 @@ class ASLModel(nn.Module):
 ![4](https://user-images.githubusercontent.com/67091916/219331148-ebd46f0f-f358-48aa-b833-e54e9f3df969.png)
 ![3](https://user-images.githubusercontent.com/67091916/219331155-340d4247-afa0-4296-8968-8d89da10b44e.png)
 
-I also measure accuracy on test set where i reach accuracy of 97.4. you can see the whole implementation in the jupyter notebook.  
+I also **measure accuracy on test set** where i reach **accuracy of 97.4**. you can see the whole implementation in the jupyter notebook.  
