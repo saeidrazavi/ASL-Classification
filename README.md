@@ -83,8 +83,10 @@ class ASLDataset(Dataset):
 
 ## Define nueral network model 
 
-in this section we use structure of Alexnet model with following properties : 
+in this section we use Alexnet model with following structure : 
+
+![7](https://user-images.githubusercontent.com/67091916/219330414-4829f6e3-5600-4f10-be2c-62114a17b09d.png)
 
 
-![3](https://user-images.githubusercontent.com/67091916/219327265-87cce240-1b48-4e58-8d70-7950567c9b95.png)
-![4](https://user-images.githubusercontent.com/67091916/219327273-0d681332-8bc1-4ebb-be04-c3f28dc5f6c1.png)
+## Loss and accuracy on train and validation set 
+
