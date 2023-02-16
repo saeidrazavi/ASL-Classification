@@ -81,7 +81,7 @@ class ASLDataset(Dataset):
         return image, label
 ```   
 
-## Define nueral network model 
+## Define neural network model 
 
 in this section, we use Alexnet model with following structure : 
 
